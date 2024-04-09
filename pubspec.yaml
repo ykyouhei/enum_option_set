@@ -1,0 +1,11 @@
+name: enum_option_set
+description: EnumOptionSet is a Dart package that provides a way to manage a set of enum options. It allows you to add, remove, and check options in a set, and perform set operations like union, intersection, and difference.
+version: 1.0.0
+repository: https://github.com/ykyouhei/enum_option_set
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
